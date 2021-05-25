@@ -1,6 +1,6 @@
 {
   "name": "style-tween",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A small tween library",
   "repository": "git@github.com:MatteoGabriele/style-tween.git",
   "author": "Matteo Gabriele <m.gabriele.dev@gmail.com>",
