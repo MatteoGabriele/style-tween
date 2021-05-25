@@ -4,6 +4,7 @@ const tweenIdKey = "data-tween-id";
 const CSSTransitionProperty = "transition";
 const duration = 0.6;
 const timeFormat = "s";
+
 export default class StyleTween {
   constructor(el, options = {}) {
     this.node = el;
