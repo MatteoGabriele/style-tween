@@ -1,0 +1,33 @@
+{
+  "name": "style-tween",
+  "version": "0.1.0",
+  "description": "A small tween library",
+  "repository": "git@github.com:MatteoGabriele/style-tween.git",
+  "author": "Matteo Gabriele <m.gabriele.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "NODE_ENV=dev bili --watch",
+    "build": "bili",
+    "lint": "eslint --ext .js .",
+    "lint:fix": "yarn lint --fix"
+  },
+  "main": "./dist/style-tween.js",
+  "module": "./dist/style-tween.esm.js",
+  "unpkg": "./dist/style-tween.umd.js",
+  "jsdelivr": "./dist/style-tween.umd.js",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "babel-eslint": "^10.0.3",
+    "bili": "^5.0.5",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-jest": "^23.0.4",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^6.0.1",
+    "prettier": "^2.0.5",
+    "rollup-plugin-alias": "^2.2.0"
+  }
+}
