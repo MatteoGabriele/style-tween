@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://npm.im/style-tween">
+    <img src="https://badgen.net/npm/v/style-tween">
+  </a>
+  <a href="https://bundlephobia.com/result?p=style-tween">
+    <img src="https://badgen.net/bundlephobia/minzip/style-tween">
+  </a>
+</p>
+
 # style-tween
 Probably the smallest tween library you can find.
 
