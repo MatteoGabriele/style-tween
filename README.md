@@ -10,6 +10,10 @@
 # style-tween
 Probably the smallest tween library you can find.
 
+### Do I need this library?
+If you want to add a nice smooth animation but don't want to download the entire GSAP library, yes!
+Otherwise, GSAP is way better.
+
 ### Installation
 
 ```js
