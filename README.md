@@ -1,4 +1,7 @@
 <p align="center">
+  <img width="250" src="https://i.imgur.com/fSRMtPG.png">
+  <br>
+  <br>
   <a href="https://npm.im/style-tween">
     <img src="https://badgen.net/npm/v/style-tween">
   </a>
